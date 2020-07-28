@@ -4,56 +4,75 @@
       "titulo": "Albums",
       "link": "https://www.youtube.com/watch?v=jXsjDOiomSc",
       "cor": "#808080",
-      "link_extra": {
-        "url": "https://www.youtube.com/user/boniver"
-      },
+
       "videos": [
         {
           "titulo": "The Lumineers - Full Performance ",
           "url": "https://www.youtube.com/watch?v=353lHGbvu8o&t=2282s"
         },
         {
-          "titulo": "Bon Iver FULL ALBUM",
+          "titulo": "Pure Heroine",
+          "url": "https://www.youtube.com/watch?v=yZ6BR4rHYL4"
+        },
+        {
+          "titulo": "Bon Iver",
           "url": "https://www.youtube.com/watch?v=X1z1g4JzHFQ"
         },
         
         {
-          "titulo": "late night lofi",
-          "url": "https://www.youtube.com/watch?v=JZ9GwwttpRU"
+          "titulo": "Therese Lithner",
+          "url": "https://www.youtube.com/watch?v=RWoEpLWFDwU&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=6"
+        },
+        
+        {
+          "titulo": "Blue smiley ",
+          "url": "https://www.youtube.com/watch?v=lVwdMQKBk6I&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=14"
         },
         {
-          "titulo": "Piano ASMR",
-          "url": "https://www.youtube.com/watch?v=ru-O5L2uxho"
+          "titulo": "Youngteam",
+          "url": "https://www.youtube.com/watch?v=AQJ_mG7IKEE&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=17"
         },
         {
-          "titulo": "Rainy Night Coffee Shop",
-          "url": "https://www.youtube.com/watch?v=c0_ejQQcrwI"
-        }        
+          "titulo": "Bass Drum Of Death",
+          "url": "https://www.youtube.com/watch?v=Ass0MXLj_J4&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI"
+        },
+        {
+          "titulo": "Mac Demarco",
+          "url": "https://www.youtube.com/watch?v=TpSHhrmTQdk&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=16"
+        },
+        
+        {
+          "titulo": "Makeout videotape",
+          "url": "https://www.youtube.com/watch?v=u03vNCjiNuc&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=20"
+        }    
+            
       ]
     },
     {
       "titulo": "Music",
       "cor": "#808080",
-      "link_extra": {
-        "url": "https://www.youtube.com/watch?v=1x6vGt-3yZE"
-      },
+
       "videos": [
         
         {
-          "titulo": "Late night",
-          "url": "https://www.youtube.com/watch?v=Qc8RrA5KBQo"
+          "titulo": "Disclosure",
+          "url": "https://www.youtube.com/watch?v=b_KfnGBtVeA"
         },
         {
-          "titulo": "Rain ",
-          "url": "https://www.youtube.com/watch?v=DsZAFD5Y0sM"
+          "titulo": "Sweet Nothing",
+          "url": "https://www.youtube.com/watch?v=17ozSeGw-fY"
         },
         {
-          "titulo": "late night with you",
-          "url": "https://www.youtube.com/watch?v=-6ObabWnCoQ"
+          "titulo": "Counting Stars",
+          "url": "https://www.youtube.com/watch?v=hT_nvWreIhg"
         }, 
         {
-          "titulo": "Warm summer afternoons vibes",
-          "url": "https://www.youtube.com/watch?v=DSu505aCRyg"
+          "titulo": "Elastic Heart",
+          "url": "https://www.youtube.com/watch?v=KWZGAExj-es"
+        },
+        {
+          "titulo": "Magic",
+          "url": "https://www.youtube.com/watch?v=PIh2xe4jnpk"
         }
       ]
     },
@@ -76,7 +95,23 @@
         {
           "titulo": "brazil songs playlist",
           "url": "https://www.youtube.com/watch?v=ZhstyJSNKME"
-        }
+        },
+        {
+          "titulo": "Late night",
+          "url": "https://www.youtube.com/watch?v=Qc8RrA5KBQo"
+        },
+        {
+          "titulo": "Rain ",
+          "url": "https://www.youtube.com/watch?v=DsZAFD5Y0sM"
+        },
+        {
+          "titulo": "late night with you",
+          "url": "https://www.youtube.com/watch?v=-6ObabWnCoQ"
+        }, 
+        {
+          "titulo": "Pastel Blue",
+          "url": "https://www.youtube.com/watch?v=uMuNjgULtE8&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=7"
+        }    
       ]
     },
     {
@@ -107,11 +142,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "cor": "#808080",
       "videos": [
         {
           "titulo": "Final Fantasy 7",
@@ -136,33 +167,30 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      "titulo": "Games",
+      "cor": "#8080",
+      "videos": [ 
+      
+      {
+        "titulo": "Final Fantasy 7",
+        "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
       },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
+      {
+        "titulo": "Assassins Creed Valhalla",
+        "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      },
+      {
+        "titulo": "God of War 4",
+        "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      },
+      {
+        "titulo": "Resident Evil 8",
+        "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      },
+      {
+        "titulo": "Pokémon Let's Go Pikachu/Eevee",
+        "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+      }
       ]
     }
   ]

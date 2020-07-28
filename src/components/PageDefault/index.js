@@ -18,7 +18,7 @@ function PageDefault({ children }) { // props
         <>
             <Menu />
             <Main>
-            {children}
+                {children}
             </Main>
             <Footer />
         </>
