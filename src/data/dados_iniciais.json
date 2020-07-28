@@ -60,10 +60,6 @@
     {
       "titulo": "Study",
       "cor": "#808080",
-      "link_extra": {
-        "text": "Study",
-        "url": "https://www.youtube.com/watch?v=o9CmdX8rb88"
-      },
       "videos": [
         {
           "titulo": "Chill Music for Stress ",
