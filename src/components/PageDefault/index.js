@@ -18,7 +18,11 @@ function PageDefault({ children }) { // props
         <>
             <Menu />
             <Main>
+<<<<<<< HEAD
                 {children}
+=======
+            {children}
+>>>>>>> bf2cdf1fc64e3fd091207a553d94714d1f541573
             </Main>
             <Footer />
         </>
