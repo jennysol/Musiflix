@@ -29,11 +29,8 @@ a {
   display: flex;
   flex-direction: column;
 }
-<<<<<<< HEAD
 #root {
   min-height: calc(100vh - var(--bodyPaddingTop));
   display: flex;
   flex-direction: column;
 }
-=======
->>>>>>> bf2cdf1fc64e3fd091207a553d94714d1f541573
