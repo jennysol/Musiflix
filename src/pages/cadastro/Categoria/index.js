@@ -30,7 +30,7 @@ function CadastroCategoria() {
 
   useEffect(() => {
     console.log('alo alo alo');
-    const URL_TOP = 'http://localhost:8080/categorias';
+    const URL_TOP = 'https://soliver.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
