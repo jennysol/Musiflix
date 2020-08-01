@@ -1,16 +1,230 @@
 {
-    "categorias": [
-      { 
-        "id": 1,
-        "nome": "Front End",
-        "descricao": "Uma categoria show",
-        "cor": "#ff0000"
-      },
-      { 
-        "id": 2,
-        "nome": "Back End",
-        "descricao": "Outra categoria show",
-        "cor": "#ff0000"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Albums",
+      "link": "https://www.youtube.com/watch?v=jXsjDOiomSc",
+      "cor": "#808080"
+    },
+    {
+      "id": 2,
+      "titulo": "Music",
+      "cor": "#808080"
+    },
+    {
+      "id": 3,
+      "titulo": "Study",
+      "cor": "#808080"
+    },
+    {
+      "id": 4,
+      "titulo": "Movies",
+      "cor": "#808080"
+    },
+    {
+      "id": 5,
+      "titulo": "Games",
+      "cor": "#808080"
+    }
+  ],
+  "videos": [
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "The Lumineers - Full Performance ",
+      "url": "https://www.youtube.com/watch?v=353lHGbvu8o&t=2282s"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Pure Heroine",
+      "url": "https://www.youtube.com/watch?v=yZ6BR4rHYL4"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Bon Iver",
+      "url": "https://www.youtube.com/watch?v=X1z1g4JzHFQ"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Therese Lithner",
+      "url": "https://www.youtube.com/watch?v=RWoEpLWFDwU&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=6"
+    },
+    {
+      "id": 10,
+      "categoriaId": 1,
+      "titulo": "Blue smiley ",
+      "url": "https://www.youtube.com/watch?v=lVwdMQKBk6I&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=14"
+    },
+    {
+      "id": 11,
+      "categoriaId": 1,
+      "titulo": "Youngteam",
+      "url": "https://www.youtube.com/watch?v=AQJ_mG7IKEE&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=17"
+    },
+    {
+      "id": 12,
+      "categoriaId": 1,
+      "titulo": "Bass Drum Of Death",
+      "url": "https://www.youtube.com/watch?v=Ass0MXLj_J4&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI"
+    },
+    {
+      "id": 13,
+      "categoriaId": 1,
+      "titulo": "Mac Demarco",
+      "url": "https://www.youtube.com/watch?v=TpSHhrmTQdk&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=16"
+    },
+    {
+      "id": 14,
+      "categoriaId": 1,
+      "titulo": "Makeout videotape",
+      "url": "https://www.youtube.com/watch?v=u03vNCjiNuc&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=20"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "Disclosure",
+      "url": "https://www.youtube.com/watch?v=b_KfnGBtVeA"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Sweet Nothing",
+      "url": "https://www.youtube.com/watch?v=17ozSeGw-fY"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "Counting Stars",
+      "url": "https://www.youtube.com/watch?v=hT_nvWreIhg"
+    },
+    {
+      "id": 18,
+      "categoriaId": 2,
+      "titulo": "Elastic Heart",
+      "url": "https://www.youtube.com/watch?v=KWZGAExj-es"
+    },
+    {
+      "id": 19,
+      "categoriaId": 2,
+      "titulo": "Magic",
+      "url": "https://www.youtube.com/watch?v=PIh2xe4jnpk"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "Chill Music for Stress ",
+      "url": "https://www.youtube.com/watch?v=81WBzpwK1Rk"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "Those days",
+      "url": "https://www.youtube.com/watch?v=goQP0M-HppE"
+    },
+    {
+      "id": 22,
+      "categoriaId": 3,
+      "titulo": "Beats to relax/study ",
+      "url": "https://www.youtube.com/watch?v=5qap5aO4i9A"
+    },
+    {
+      "id": 23,
+      "categoriaId": 3,
+      "titulo": "brazil songs playlist",
+      "url": "https://www.youtube.com/watch?v=ZhstyJSNKME"
+    },
+    {
+      "id": 24,
+      "categoriaId": 3,
+      "titulo": "Late night",
+      "url": "https://www.youtube.com/watch?v=Qc8RrA5KBQo"
+    },
+    {
+      "id": 25,
+      "categoriaId": 3,
+      "titulo": "Rain ",
+      "url": "https://www.youtube.com/watch?v=DsZAFD5Y0sM"
+    },
+    {
+      "id": 26,
+      "categoriaId": 3,
+      "titulo": "late night with you",
+      "url": "https://www.youtube.com/watch?v=-6ObabWnCoQ"
+    },
+    {
+      "id": 27,
+      "categoriaId": 3,
+      "titulo": "Pastel Blue",
+      "url": "https://www.youtube.com/watch?v=uMuNjgULtE8&list=PLJEYWujlU28j9kJ-_-hV7sOevIYPtyeRI&index=7"
+    },
+    {
+      "id": 28,
+      "categoriaId": 4,
+      "titulo": "Interestellar",
+      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+    },
+    {
+      "id": 29,
+      "categoriaId": 4,
+      "titulo": "Gattaca",
+      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+    },
+    {
+      "id": 30,
+      "categoriaId": 4,
+      "titulo": "A Chegada",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 31,
+      "categoriaId": 4,
+      "titulo": "Feitiço do Tempo",
+      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+    },
+    {
+      "id": 32,
+      "categoriaId": 4,
+      "titulo": "1917",
+      "url": "https://www.youtube.com/watch?v=QBFoZX6Kzuc"
+    },
+    {
+      "id": 33,
+      "categoriaId": 5,
+      "titulo": "Final Fantasy 7",
+      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+    },
+    {
+      "id": 34,
+      "categoriaId": 5,
+      "titulo": "Assassins Creed Valhalla",
+      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+    },
+    {
+      "id": 35,
+      "categoriaId": 5,
+      "titulo": "God of War 4",
+      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+    },
+    {
+      "id": 36,
+      "categoriaId": 5,
+      "titulo": "Resident Evil 8",
+      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+    },
+    {
+      "id": 37,
+      "categoriaId": 5,
+      "titulo": "Pokémon Let's Go Pikachu/Eevee",
+      "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+    },
+    {
+      "titulo": "The Lumineers - Full Performance",
+      "url": "https://www.youtube.com/watch?v=353lHGbvu8o&t=2282s",
+      "categoriaId": 1,
+      "id": 39
+    }
+  ]
 }
