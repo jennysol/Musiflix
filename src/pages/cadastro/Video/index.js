@@ -32,8 +32,8 @@ function CadastroVideo() {
       <form onSubmit={(event) => {
         event.preventDefault();
         // alert('Video Cadastrado com sucesso!!!1!');
+        // eslint-disable-next-line max-len
         const categoriaEscolhida = categorias.find((categoria) => categoria.titulo === values.categoria);
-
         videosRepository.create({
           titulo: values.titulo,
           url: values.url,
