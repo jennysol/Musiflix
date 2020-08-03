@@ -15,6 +15,7 @@ const Button = styled.button `
     text-decoration: none;
     display: inline-block;
     transition: opacity .3s;
+    margin-bottom: 30px;
 
 
     &:hover,
